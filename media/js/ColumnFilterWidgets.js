@@ -32,7 +32,7 @@
 		// check that we have a column id
 		if ( typeof iColumn == "undefined" ) return new Array();
 		
-		// by default we only wany unique data
+		// by default we only want unique data
 		if ( typeof bUnique == "undefined" ) bUnique = true;
 		
 		// by default we do want to only look at filtered data
